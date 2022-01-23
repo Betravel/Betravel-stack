@@ -1,6 +1,6 @@
 # Betravel-stack
 
-<img width="100" height="100" alt="TMN" src="/betravel.jpg"/>
+<img width="100" height="100" alt="Betravel" src="/betravel.jpg"/>
 Betravel: Travel Agency Web/Mobile Application
 <br>
 This project uses the following technologies:
